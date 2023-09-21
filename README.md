@@ -67,7 +67,7 @@ to identify the best value for K.
 
 1. Complete the TODOs in `kmeans_elbow.py` python file.
 2. Complete the TODOs in the `kmeans.py` python file.
-3. Write a 1-2 page report summarizing the findings of tasks 1 and 2. Include a visual of the elbow plot along with a visual of the final clusters and cluster centroids. Include in the report why you chose a specific value of 'K'.
+3. Write a 1-2 page report summarizing the findings of tasks 1 and 2. Include a visual of the elbow plot along with a visual of the final clusters and cluster centroids. Include in the report why you chose a specific value of 'K'. Report needs to include the elbow plot and a final plot with all data points, colored by the cluster they belong to.
 
 ---
 
